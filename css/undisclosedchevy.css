@@ -1,0 +1,76 @@
+html, body {
+	height: 100%;
+	font-family: Arial;
+
+}
+#top-banner{
+	background-color: #2480D5;
+	height: 140px;
+	position: center;
+
+}
+.main {
+	height: 100%;
+	width:950px;
+	position: center; 
+
+
+    
+}
+#top-banner-phones {
+	height: 140px;
+	width: 550px;
+	vertical-align: top;
+	display: inline;
+
+
+}
+#chat-image{
+	vertical-align: top;
+	margin-left: -30px;
+	display:inline;
+}
+#sales-phone {
+	font-style: italic;
+	color: white;
+	display:inline;
+	float: right;
+	font-size: 18px;
+	vertical-align: top;
+}
+#service-phone {
+	font-style: italic;
+	color: white;
+	display:inline;
+	float: right;
+	font-size: 16px;
+	vertical-align: top;
+}
+#search-box{
+	display: inline-block;
+	border: 2px red solid;
+	height: 30px;
+	width:200px
+	background-color: gray;	
+}
+.nav-item {
+	float: left;
+	border-radius: 5px 5px 0 0; ;
+	display: inline-block;
+	line-height: 35px;
+	font-size: 14px;
+	font-weight: bold;
+
+
+}
+#main-nav {
+	display: block;
+	width:950px;
+	height: 35px;
+	position: left;
+}
+
+#performance-jpeg {
+	margin-left: 10px;
+
+}

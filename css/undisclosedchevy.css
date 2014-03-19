@@ -6,53 +6,54 @@ html, body {
 #top-banner{
 	background-color: #2480D5;
 	height: 140px;
-	position: center;
-
+	width:100%; 
 }
 .main {
 	height: 100%;
-	width:950px;
-	position: center; 
-
-
-    
+	width:950px; 
+	margin: 0 auto;
 }
 #top-banner-phones {
-	height: 140px;
-	width: 550px;
 	vertical-align: top;
-	display: inline;
-
+	display: inline-block;
 
 }
 #chat-image{
 	vertical-align: top;
-	margin-left: -30px;
-	display:inline;
+	margin-top: 10px;
+	margin-left: -60px;
+}
+#all-phones {
+	vertical-align: top;
+	float: right; 
+	margin-top: 10px;
 }
 #sales-phone {
 	font-style: italic;
 	color: white;
-	display:inline;
-	float: right;
-	font-size: 18px;
+	font-size: 20px;
 	vertical-align: top;
 }
 #service-phone {
 	font-style: italic;
 	color: white;
-	display:inline;
-	float: right;
 	font-size: 16px;
 	vertical-align: top;
 }
 #search-box{
 	display: inline-block;
-	border: 2px red solid;
-	height: 30px;
-	width:200px
-	background-color: gray;	
+	height: 29px;
+	width:390px;
+	background-color: #F1F3F2;
+	border-radius: 5px;
+	margin-left: 50px;
+	margin-top: 7px;
 }
+#search-image{
+	vertical-align: bottom;
+	margin-top: -1px;
+}
+/*
 .nav-item {
 	float: left;
 	border-radius: 5px 5px 0 0; ;
@@ -74,3 +75,4 @@ html, body {
 	margin-left: 10px;
 
 }
+*/

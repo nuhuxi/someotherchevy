@@ -58,6 +58,9 @@ html, body {
 	margin-left: 50px;
 	margin-top: 7px;
 }
+#search-box-container{
+	background-color: #F2F1ED;
+}
 #search-image{
 	vertical-align: bottom;
 	margin-top: -1px;

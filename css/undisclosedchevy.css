@@ -5,14 +5,22 @@ html, body {
 }
 #top-banner{
 	background-color: #2480D5;
-	height: 140px;
+	height: 135px;
 	width:100%; 
+
 }
 .main {
 	height: 100%;
 	width:950px; 
 	margin: 0 auto;
 }
+#allattop{
+
+}
+#dealerbuilding{
+
+}
+
 #top-banner-phones {
 	vertical-align: top;
 	display: inline-block;
@@ -27,6 +35,7 @@ html, body {
 	vertical-align: top;
 	float: right; 
 	margin-top: 10px;
+	padding-left: 10px;
 }
 #sales-phone {
 	font-style: italic;
@@ -53,26 +62,73 @@ html, body {
 	vertical-align: bottom;
 	margin-top: -1px;
 }
-/*
-.nav-item {
-	float: left;
-	border-radius: 5px 5px 0 0; ;
-	display: inline-block;
-	line-height: 35px;
-	font-size: 14px;
-	font-weight: bold;
-
-
-}
 #main-nav {
 	display: block;
 	width:950px;
-	height: 35px;
-	position: left;
+	height: 40px;
+	vertical-align: top;
+}
+.nav-item {
+	background-color: #F1F3F2 ;
+	border-radius: 5px 5px 0 0; 
+	display: inline-block;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: top;
+	height: 30px;
+	color: #2480D5;
+	padding-top: 5px;
+	margin-top: -50px;
+}
+#nav-home{
+	width: 75px;
+	margin-left: -50px;
+}
+#nav-new{
+	width: 130px;
+}
+#nav-used{
+	width: 130px;
+}
+#nav-fleet{
+	width: 75px;
+}
+#nav-finance{
+	width: 75px;
+}
+#nav-service{
+	width: 75px;
+}
+#nav-parts{
+	width: 75px;
+}
+#nav-body{
+	width: 110px;
+}
+#nav-blog{
+	width: 75px;
+}
+#nav-about{
+	width: 100px;
 }
 
+#gray-background{
+	background-color: #8B8B8B;
+	margin-top: -56px;
+	height: 100%;
+	width:100%; 
+
+}
+#center-white{
+	display: block;
+	margin: 0 auto;
+	width: 970px;
+	background-color: #FFFFFF;
+
+}
 #performance-jpeg {
-	margin-left: 10px;
+	padding-top: 10px;
+	margin: 0 auto;
 
 }
-*/

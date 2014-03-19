@@ -64,7 +64,7 @@ html, body {
 }
 #main-nav {
 	display: block;
-	width:950px;
+	width:970px;
 	height: 40px;
 	vertical-align: top;
 }
@@ -83,7 +83,7 @@ html, body {
 }
 #nav-home{
 	width: 75px;
-	margin-left: -50px;
+	margin-left: -40px;
 }
 #nav-new{
 	width: 130px;
@@ -95,7 +95,7 @@ html, body {
 	width: 75px;
 }
 #nav-finance{
-	width: 75px;
+	width: 85px;
 }
 #nav-service{
 	width: 75px;
@@ -124,11 +124,48 @@ html, body {
 	display: block;
 	margin: 0 auto;
 	width: 970px;
+	left: -20px;
 	background-color: #FFFFFF;
 
 }
 #performance-jpeg {
 	padding-top: 10px;
-	margin: 0 auto;
+	padding-left: 10px;
+	width: 950px;
+}
+#big-buttons {
+	display: inline-block;
+	background-color: #000000;
+	padding-left: 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+	height: 440px;
+	width: 150px;
+}
+.item-big-buttons{
+	padding-top: 10px;
+
+}
+#month-promo{
+	display:inline-block;
+	margin-top: 0 auto;
+	vertical-align: top;
+
+	margin-top: 5px;
+	margin-left: 7px;
+
+}
+#truck-pic{
+	width:540px;
+
+}
+#advanced-search {
+	display: inline-block;
+	background-color: #016DD2;
+	height: 275px;
+	width:229px;
+	vertical-align: top;
+	margin-top: 5px;
+	margin-left: 7px;
 
 }
